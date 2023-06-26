@@ -1,4 +1,4 @@
-# A chatbot made with TigerBot Chat-API and SvelteKit, with easy solution for desktop app.
+# A chatbot made with TigerBot Chat-API and SvelteKit, with easy solution for desktop app
 
 This project is heavily inspired by the demo app of SvelteKit and TigerBot.
 
@@ -9,8 +9,9 @@ Once you've downloaded this repo and installed dependencies with `npm install` (
 ```bash
 npm run dev
 ```
+Replace the API_KEY with your key in numbers.
 
-## For desktop option, please refer to Tauri and/or Pake Documenation. 
+## For desktop option, please refer to Tauri and/or Pake Docs
 With Tauri and Pake library (written in Rust), you can easily make SvelteKit apps into desktop apps with several command lines and without real knoledge of Rust language!
 - [SvelteKit](https://kit.svelte.dev/docs/)
 - [Tauri](https://tauri.app/)
@@ -21,7 +22,7 @@ With Tauri and Pake library (written in Rust), you can easily make SvelteKit app
 
 # 使用TigerBot和Svelte框架制作的聊天机器人，可快速打包成桌面应用
 ## 二次开发
-见SvelteKit和Tauri、Pake的官方文档。初步对话效果见demo文件夹。
+见SvelteKit和Tauri、Pake的官方文档，初步对话效果见demo文件夹。
 
 ## 特别感谢
 - 开源可商用的TigerBot及其愿景："以世界级的基础大模型，贡献于中国式的创新" 👏🏻👏🏻 [TigerBot](https://github.com/TigerResearch/TigerBot)
