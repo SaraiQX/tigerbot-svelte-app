@@ -10,7 +10,7 @@
 		const options = {
 		  method: 'POST',
 		  headers: {
-			'Authorization': 'Bearer ' + 'API_KEY',
+			'Authorization': 'Bearer ' + 'API_KEY', //在这里键入你的API KEY，记得充值哦
 			'Content-Type': 'application/json'
 		  },
 		  body: JSON.stringify({
