@@ -12,7 +12,7 @@ npm run dev
 Replace the API_KEY with your key in numbers.
 
 ## For desktop option, please refer to Tauri and/or Pake docs
-With Tauri and Pake library (written in Rust), you can easily make SvelteKit apps into desktop apps with several command lines and without real knoledge of Rust language!
+With Tauri and Pake library (written in Rust), you can easily make a SvelteKit app into desktop format with only several command lines and without real knowledge of Rust language!
 - [SvelteKit](https://kit.svelte.dev/docs/)
 - [Tauri](https://tauri.app/)
 - [Pake](https://github.com/tw93/Pake)
