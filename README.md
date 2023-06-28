@@ -23,6 +23,9 @@ With Tauri and Pake library (written in Rust), you can easily make SvelteKit app
 # 使用TigerBot和Svelte框架制作的聊天机器人，可快速打包成桌面应用
 ## 二次开发
 见SvelteKit和Tauri、Pake的官方文档，初步对话效果见demo文件夹。
+## 开发计划
+- [ ] 增加API_KEY输入的控件
+- [ ] 提供dmg安装包
 
 ## 特别感谢
 - 开源可商用的TigerBot及其愿景："以世界级的基础大模型，贡献于中国式的创新" 👏🏻👏🏻 [TigerBot](https://github.com/TigerResearch/TigerBot)
