@@ -30,3 +30,4 @@ With Tauri and Pake library (written in Rust), you can easily make a SvelteKit a
 ## 特别感谢
 - 开源可商用的TigerBot及其愿景："以世界级的基础大模型，贡献于中国式的创新" 👏🏻👏🏻 [TigerBot](https://github.com/TigerResearch/TigerBot)
 - 深受善行大佬的相关项目启发😄 [Tiger-QQ-Bot](https://github.com/wordweb/Tiger-qq-bot)
+- 感谢Tintin大佬的开发建议
